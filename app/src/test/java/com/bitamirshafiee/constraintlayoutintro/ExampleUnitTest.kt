@@ -1,4 +1,4 @@
-package com.example.bitamirshafiee.constraintlayoutcompleted
+package com.bitamirshafiee.constraintlayoutintro
 
 import org.junit.Test
 
